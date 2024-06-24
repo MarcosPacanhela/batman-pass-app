@@ -1,0 +1,1 @@
+Este é um aplicativo React Native que gera senhas aleatórias com 8 caracteres. Além disso, ele oferece a opção de copiar a senha gerada para a área de transferência, facilitando seu uso em outras aplicações.
